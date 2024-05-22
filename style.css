@@ -24,7 +24,7 @@ body {
     font-size: 16px;
 }
 
-.logo-r6{
+.Logo Consultório{
     width: 25%;
 }
 
@@ -46,10 +46,10 @@ body {
     padding: 24px 0;
 }
 
-.agentes{
+.Animais{
     padding: 24px 0;
 }
-.agente-imagem{
+.Animais-imagem{
     width: 120px;
 }
 
@@ -58,17 +58,17 @@ body {
     padding: 4px 8px;
 }
 
-.agente-div{
+.Animais-div{
     text-align: center;
     padding: 16px 0;
 }
 
-.agentes-titulo{
+.Animais-titulo{
     text-align: center;
     padding: 50px 0;
 }
 
-.agentes-todos{
+.Animais-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
