@@ -28,7 +28,7 @@ body {
     width: 25%;
 }
 
-.Animais{
+.Animaal{
     background-image: linear-gradient(#3c3c3c,#8c8c8c);
     color:white;
     display: flex;
@@ -37,7 +37,7 @@ body {
     padding: 24px 0;
 }
 
-.Animais-div-conteudo{
+.Animal-div-conteudo{
     width: 35%;
 }
 
